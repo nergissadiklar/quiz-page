@@ -64,7 +64,7 @@ h2{
 
 .btn:hover{
     cursor: pointer;
-    padding: 1.5rem 0;
+    box-shadow: 0 0.4rem 1.4rem 0 #ffff;
     transition: transform 150ms;
     transform: scale(1.03);
 }
