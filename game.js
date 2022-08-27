@@ -37,7 +37,7 @@ let questions = [
         answer: 4,
     },
     {
-        question: 'What is your favorite season?',
+        question: 'What is my favorite season?',
         choice1: 'Spring',
         choice2: 'Summer',
         choice3: 'Autumn',
